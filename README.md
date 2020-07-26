@@ -59,7 +59,6 @@ on:
 Let's practice creating links. Take a look at `index.html` for some additional
 guidance. To complete this lab you must:
 
-* Write one absolute path link and one relative path link
 <a href="https//www.learn.co">Learn</a> 
 
 * Wrap the provided image in a link tag
