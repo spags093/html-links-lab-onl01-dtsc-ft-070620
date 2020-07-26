@@ -60,6 +60,7 @@ Let's practice creating links. Take a look at `index.html` for some additional
 guidance. To complete this lab you must:
 
 <a href="https//www.learn.co">Learn</a> 
+<a href="products.html">Products Page</a>
 
 * Wrap the provided image in a link tag
 
